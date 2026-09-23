@@ -14,13 +14,10 @@ Thumbs.db
 # ============ LOGS ============
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
-# ============ UPLOADS TEMPORALES ============
+# ============ UPLOADS ============
 uploads/
 
 # ============ IDE ============
 .vscode/
 .idea/
-*.swp
